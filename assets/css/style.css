@@ -335,7 +335,8 @@ section {
 }
 
 .about .section-title p{
-  
+  margin-left: 0px;
+  padding-left: 0px;
   padding-top: 100px;
   padding-bottom: 20px;
   direction: rtl;
