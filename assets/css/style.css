@@ -334,8 +334,12 @@ section {
   direction: rtl;
 }
 
-.about .content p:last-child {
-  margin-bottom: 0;
+.about .section-title p{
+  
+  padding-top: 100px;
+  padding-bottom: 20px;
+  direction: rtl;
+  
 }
 
 /*--------------------------------------------------------------
